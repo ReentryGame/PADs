@@ -1,0 +1,5 @@
+These pads are extracted from the Apollo 11 flight plan (reformat):
+https://history.nasa.gov/wp-content/uploads/static/history/alsj/a11/a11fltpln_final_reformat.pdf
+
+Extracted by Heistema in the Reentry Discord channel:
+https://discord.com/channels/510845247404769331/516618609741791263/1011679894817738803
